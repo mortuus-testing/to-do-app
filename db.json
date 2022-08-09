@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "msg": "Doing Laundry",
+      "finish": true,
+      "favorite": false,
+      "id": 1
+    },
+    {
+      "msg": "Go shopping",
+      "finish": true,
+      "favorite": true,
+      "id": 2
+    },
+    {
+      "msg": "Fix world hunger",
+      "finish": false,
+      "favorite": false,
+      "id": 3
+    },
+    {
+      "msg": "Thinking about life",
+      "finish": false,
+      "favorite": true,
+      "id": 5
+    },
+    {
+      "msg": "Fix bugs in games",
+      "finish": true,
+      "favorite": false,
+      "id": 6
+    }
+  ]
+}
